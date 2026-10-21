@@ -15,7 +15,7 @@ Bem-vindo à organização oficial dos projetos desenvolvidos durante o curso de
 ## 📜 Certificação
 Podes visualizar a certificação oficial de conclusão do curso no link abaixo:
 
-👉 **[Clique aqui para ver o Certificado do SENAI](./Certificado%20Programador%20Full%20Stack.pdf)**
+👉 **[Clique aqui para ver o Certificado do SENAI](../Certificado%20Programador%20Full%20Stack.pdf)**
 
 ---
 
